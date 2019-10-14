@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chaokun Profile"
+title                    : "Chaokun Chang Profile"
 title_separator          : "-"
 name                     : &name "Chaokun"
 description              : &description "personal description"
