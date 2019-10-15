@@ -8,7 +8,7 @@ date: 2019-8-23
 location: "Shanghai, China"
 ---
 
-An WeChar mini program which can help detect the people's number and distribution in the canteen.
+An WeChat mini program which can help detect the people's number and distribution in the canteen.
 
 Technology
 ======

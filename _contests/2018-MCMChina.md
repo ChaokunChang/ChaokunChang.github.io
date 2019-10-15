@@ -1,7 +1,7 @@
 ---
 title: "Mathematical Contest in Modeling of China"
 collection: contests
-type: "Math Contest"
+type: "Math"
 permalink: /contests/2018-MCMChina
 venue: "MCM Committee"
 date: 2018-10-5
