@@ -8,14 +8,19 @@ date: 2018-10-5
 location: "Shanghai, China"
 ---
 
-The Second Price of Country 
-Focused on the simulation of xx
+Mathematical Contest in Modeling of China 2018: RGV-CNC Scheduling Problem
 
-Heading 1
+Main Work
 ======
+* Developing and simulation program to simulate the working procedure of RGC-CNC;
+* Designing scheduling strategy
+* Giving a mathmatical analysis
+* Write paper
 
-Heading 2
+Award
 ======
+The second prize of country(First prize of Shanghai)
 
-Heading 3
+Paper
 ======
+[Download](../files/MCMPaper.pdf)
