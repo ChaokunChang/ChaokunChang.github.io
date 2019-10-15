@@ -1,8 +1,8 @@
 ---
 title: "Distributed System and Algorithm"
-collection: talks
+collection: projects
 type: "Course Project"
-permalink: /talks/DistributedSystem
+permalink: /projects/DistributedSystem
 venue: "Fudan University, Department of Computer Science and Technology"
 date: 2018-12-1
 location: "Shanghai"

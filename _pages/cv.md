@@ -41,7 +41,7 @@ No publications yet.
   
 Projects
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   

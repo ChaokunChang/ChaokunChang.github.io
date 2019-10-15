@@ -1,8 +1,8 @@
 ---
 title: "Sky Map Matching"
-collection: talks
+collection: projects
 type: "Undergraduate Research Program"
-permalink: /talks/SkyMapMatching
+permalink: /projects/SkyMapMatching
 venue: "Fudan University, Department of Computer Science and Technology"
 date: 2019-5-11
 location: "Shanghai"

@@ -1,8 +1,8 @@
 ---
 title: "Monitoring System with high maintainability"
-collection: talks
+collection: projects
 type: "Summer Intern Project"
-permalink: /talks/MonitotingSystem
+permalink: /projects/MonitotingSystem
 venue: "Microsoft China, Azure Storage R&D"
 date: 2019-10-1
 location: "Shanghai"
