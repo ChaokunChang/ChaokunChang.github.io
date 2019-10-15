@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-*[PDF here](../files/CV_of_Chaokun.pdf)*
+*[PDF version here](../files/CV_of_Chaokun.pdf)*
 
 {% include base_path %}
 Education
