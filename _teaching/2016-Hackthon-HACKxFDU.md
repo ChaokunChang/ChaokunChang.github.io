@@ -1,5 +1,5 @@
 ---
-title: I am your eyes"
+title: I am your eyes
 collection: teaching
 type: "Hackthon"
 permalink: /teaching/2016-Hackthon-HACKxFDU
@@ -9,7 +9,9 @@ location: "Shanghai, China"
 ---
 
 I'm your eyes
-[Contest information here](https://www.hackx.org/projects/34)
+
+
+[Contest information here](https://www.hackx.org/projects/34) <br>
 [Source Code Here](https://github.com/ChaokunChang/I-am-your-eyes)
 
 Heading 1
