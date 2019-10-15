@@ -39,7 +39,7 @@ Publications
 ======
 No publications yet.
   
-Research Projects
+Projects
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
