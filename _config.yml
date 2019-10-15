@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  cctest:
+  extra:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _cctest
+  # _extra
   - scope:
       path: ""
-      type: cctest
+      type: extra
     values:
       layout: single
       author_profile: true
