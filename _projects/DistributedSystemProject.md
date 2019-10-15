@@ -15,6 +15,12 @@ Main Work
 * Building rocks-cluster on 20 raw machines and configuring Hadoop and Spark.
 * Reproducing a paper, “Scalable All-Pairs Similarity Search in Metric Spaces”.
 
+Technology
+======
+* Language: Java
+* Rocks-Cluster
+* Hadoop && Spark
+
 Link
 ======
 [Source Code](https://github.com/ChaokunChang/DistributedProject)
