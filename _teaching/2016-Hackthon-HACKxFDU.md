@@ -1,8 +1,8 @@
 ---
 title: I am your eyes
-collection: teaching
+collection: contests
 type: "Hackthon"
-permalink: /teaching/2016-Hackthon-HACKxFDU
+permalink: /contests/2016-Hackthon-HACKxFDU
 venue: "Fudan University and HACKx"
 date: 2016-10-03
 location: "Shanghai, China"

@@ -1,8 +1,8 @@
 ---
 title: "Smart Canteen"
-collection: teaching
+collection: contests
 type: "Hackthon"
-permalink: /teaching/2019-Hackthon-MicrosoftHackthon
+permalink: /contests/2019-Hackthon-MicrosoftHackthon
 venue: "Microsoft"
 date: 2019-8-23
 location: "Shanghai, China"

@@ -1,8 +1,8 @@
 ---
 title: "Mathematical Contest in Modeling of China"
-collection: teaching
+collection: contests
 type: "Math Contest"
-permalink: /teaching/2019-Hackthon-MicrosoftHackthon
+permalink: /contests/2019-Hackthon-MicrosoftHackthon
 venue: "MCM Committee"
 date: 2018-10-5
 location: "Shanghai, China"
