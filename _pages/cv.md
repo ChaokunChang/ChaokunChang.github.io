@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+*[PDF here](../files/CV_of_Chaokun.pdf)*
 
+{% include base_path %}
 Education
 ======
 * B.S. in Computer Science and Technology, Fudan University, 2020(expected)
