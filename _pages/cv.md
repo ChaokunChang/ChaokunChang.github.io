@@ -53,4 +53,8 @@ Contests
   
 Awards
 ======
-* Awards
+* National Endeavor Scholarship x 2
+* “Lu Chuang” Scholarship
+* The Second Price of Country in Mathematical Contest in Modeling of China
+* The IBM HACKxFDU Innovation Award
+* The excellent student and excellent league member of the evaluations in 2017

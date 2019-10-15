@@ -15,6 +15,10 @@ Technology
 * Web Application development
 * Andriod development
 
+Award
+======
+IBM HACKxFDU Innovation Award (Ipad Mini 2 x 5)
+
 Link
 ======
 [Contest Information](https://www.hackx.org/projects/34) <br>
