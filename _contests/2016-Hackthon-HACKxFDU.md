@@ -8,17 +8,14 @@ date: 2016-10-03
 location: "Shanghai, China"
 ---
 
-I'm your eyes
+An application which can help blind to recognize the environment around. Base on Microsoft Cognitive Service/IBM Bluemix.
 
-
-[Contest information here](https://www.hackx.org/projects/34) <br>
-[Source Code Here](https://github.com/ChaokunChang/I-am-your-eyes)
-
-Heading 1
+Technology
 ======
+* Web Application development
+* Andriod development
 
-Heading 2
+Link
 ======
-
-Heading 3
-======
+[Contest Information](https://www.hackx.org/projects/34) <br>
+[Source Code](https://github.com/ChaokunChang/I-am-your-eyes)

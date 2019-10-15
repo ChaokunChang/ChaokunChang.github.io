@@ -8,14 +8,10 @@ date: 2019-8-23
 location: "Shanghai, China"
 ---
 
-Smart Canteen
-Based on Yolo.
+An WeChar mini program which can help detect the people's number and distribution in the canteen.
 
-Heading 1
+Technology
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+* Flask Framework
+* Microsoft Cognitive Service and Yolo
+* WeChat Mini Program development

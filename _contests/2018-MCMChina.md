@@ -2,7 +2,7 @@
 title: "Mathematical Contest in Modeling of China"
 collection: contests
 type: "Math Contest"
-permalink: /contests/2019-Hackthon-MicrosoftHackthon
+permalink: /contests/2018-MCMChina
 venue: "MCM Committee"
 date: 2018-10-5
 location: "Shanghai, China"
@@ -21,6 +21,6 @@ Award
 ======
 The second prize of country(First prize of Shanghai)
 
-Paper
+Link
 ======
-[Download](../files/MCMPaper.pdf)
+[Download Paper](../files/MCMPaper.pdf)

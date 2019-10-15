@@ -16,11 +16,10 @@ Task Description
 Given a question, span an answer from relevant documents. 
 Model is trained with [DuReader](http://ai.baidu.com/broad/introduction)
 
-
 Model
 ======
 BiDAF & Bert
 
-Code
+Link
 ======
-[Github Repository](https://github.com/ChaokunChang/BaiduMRC)
+[Source Code](https://github.com/ChaokunChang/BaiduMRC)
