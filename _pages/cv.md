@@ -71,12 +71,12 @@ Main Courses
 | Algebra Structure and Mathematical Logic | Math | Algorithm Design and Analysis | CS Basis |
 | Probability and Mathematical Statistics | Math | Introduction to Computer System | CS Basis | 
 | College Physics B | Physics | Operating System | CS Basis |
-| Basics of Analog Electronics | EE | Compile | CS Basis |
+| Basics of Analog Electronics | EE | Compile | CS Basis *(on going)* |
 | How to Start and Develop Scientific Research | Research | Computer Networks | System and Network |
 | Digital Logic and Component Design | CS Hardware | Introduction to Database Systems | System and Network |
 | Experiments Digital Logic and Component Design | CS Hardware | Distributed System | System and Network |
 | Software Engineering | CS Software | Pattern Recognition and Machine Learning | AI | 
-| Big Data Analysis and Techniques | Big Data | Natural Language Processing | AI |
 | Principles of Security | Security | Digital Image Processing | AI |
-| Data Mining | Data Mining | Artificial Intelligence | AI | 
-| Concept of Concurrency | System and Network (audit)|
+| Big Data Analysis and Techniques | Big Data | Natural Language Processing | AI *(on going)* |
+| Data Mining | Data Mining | Artificial Intelligence | AI *(on going)* | 
+| Concept of Concurrency | System and Network *(audit)* |
