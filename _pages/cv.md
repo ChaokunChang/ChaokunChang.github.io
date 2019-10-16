@@ -22,7 +22,7 @@ Work experience
   * Mentor: Jie Du
 
 * Summer 2018: Research Intern
-  * Fudan University
+  * DASLab of Fudan University
   * Duties included: Geo-Point Retrieving
   * Supervisor: Professor Hub
   
@@ -59,3 +59,23 @@ Awards
 * The Second Price of Country in Mathematical Contest in Modeling of China
 * The IBM HACKxFDU Innovation Award
 * The excellent student and excellent league member of the evaluations in 2017
+
+Main Courses
+======
+| Course name  | Type         | Course name  | Type       |
+| --------     | --------     | --------     | --------   |
+| Mathematical Analysis B | Math | Programming | CS Basis |
+| Linear Algebra | Math | Object Oriented Programming | CS Basis |
+| Set Theory and Graph Theory | Math | Data Structure | CS Basis |
+| Algebra Structure and Mathematical Logic | Math | Algorithm Design and Analysis | CS Basis |
+| Probability and Mathematical Statistics | Math | Introduction to Computer System | CS Basis | 
+| College Physics B | Physics | Operating System | CS Basis |
+| Basics of Analog Electronics | EE | Compile | CS Basis |
+| How to Start and Develop Scientific Research | Research | Computer Networks | System and Network |
+| Digital Logic and Component Design | CS Hardware | Introduction to Database Systems | System and Network |
+| Experiments Digital Logic and Component Design | CS Hareware | Distributed System | System and Network |
+| Software Engineering | CS Software | Pattern Recognition and Machine Learning | AI | 
+| Big Data Analysis and Techniques | Big Data | Natural Language Processing | AI |
+| Principles of Security | Security | Digital Image Processing | AI |
+| Data Mining | Data Mining | Artificial Intelligence | AI | 
+| Concept of Concurrency | System and Network (audit)|
