@@ -62,8 +62,9 @@ Awards
 
 Main Courses
 ======
+
 | Course name  | Type         | Course name  | Type       |
-| --------     | --------     | --------     | --------   |
+| ------------ | ------------ | ------------ | ---------- |
 | Mathematical Analysis B | Math | Programming | CS Basis |
 | Linear Algebra | Math | Object Oriented Programming | CS Basis |
 | Set Theory and Graph Theory | Math | Data Structure | CS Basis |
