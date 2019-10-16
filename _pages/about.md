@@ -10,7 +10,7 @@ redirect_from:
 
 This is Chaokun's Homepage, welcome!
 
-I'm currently an undergraduate student of Fudan University, majoring in Computer Science and Technology, elite class. My research interset locates in Network and System, especially in Distributed System and Database. I'm also a memeber of DSALab (Data Analysis and Security Laboratory) of Fudan University, supervised by Zhengying He. In DASLab, I mainly learn about the retrieving approaches on Geo-Point. Recently, I'm reading papers related to Federated Learning (ex. mitigating the communication in FL), which I think is also very interesting.
-For more information about my background, please go to the page of [CV](https://chaokunchang.github.io/cv/). 
+Chaokun is currently an undergraduate student of Fudan University, majoring in Computer Science and Technology, elite class. His research interest locates in Network and System, especially in Distributed System and Database. He is also a memeber of DSALab (Data Analysis and Security Laboratory) of Fudan University, supervised by Zhengying He. In DASLab, he mainly learn about the retrieving approaches on Geo-Point. Recently, he is reading papers related to Federated Learning (ex. mitigating the communication in FL), which he think is also very interesting.
+For more information about Chaokun's background, please go to the page of [CV](https://chaokunchang.github.io/cv/). 
 
-I'm a fan of magic and comic. In my spare time, I often learn some magic tricks and sometimes give a show in activites of my school. If you are also a magic fan, welcome to contact me!
+Chaokun is also a fan of magic and comic. In his spare time, he often learns some magic tricks and sometimes gives a show in activites of my school. If you are also a magic fan, welcome to contact him!
