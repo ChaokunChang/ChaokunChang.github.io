@@ -3,10 +3,8 @@ title: 'Toefl Speaking Templates'
 date: 2019-10-19
 permalink: /posts/2019/10/19/toeflspeaking1/
 tags:
-  - Toefl
+  - Toefl Speaking
   - English
-  - Speaking
-  - Templates
 ---
 
 Some Speaking Task1 question and answer
