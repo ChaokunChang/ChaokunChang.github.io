@@ -3,7 +3,7 @@ title: "Sky Map Matching"
 collection: projects
 type: "Undergraduate Research Program"
 permalink: /projects/SkyMapMatching
-venue: "Fudan University, Department of Computer Science and Technology"
+venue: "Fudan University, Department of Computer Science and Technology, Excellent Programm "
 date: 2019-5-11
 location: "Shanghai"
 ---

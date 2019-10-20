@@ -15,7 +15,7 @@ Content
 	• T2: The girl proposed an ingenious way to solve the problem.
 	• T1[x]: I think a more ingenious way to do something is xxx.
 	• T2: The girl thinks that school should introduce a more moderate policies, instead of just radically forbidden student's activities.(stop student to attend the meeting)
-	• T1[Job choice]:  I think we must resist the lure of fame/power/money when choosing a job/career. Though gain money from work is essential and perfectly justified, we should know that work is not just getting money. 
+	• T1[Job choice]: I think we must resist the lure of fame/power/money when choosing a job/career. Though gaining money from work is essential and perfectly justified, we should know that work is not just getting money. Marks said that a person must choose a career which he loves and which can make difference to world.
 	• T1[Trip]: I was overwhelmed by the beauty of the Landscape.
 	• T1[x] T2[solution]: This solution seems plausible at first, but ultimately highly unlikely/ ridiculous. Ex. Giving children the choice to watch TV programs seems plausible/wise at first, but ultimately do harms to their health, mentally and physically.
 	• T1[Bad behavior]: Bad memory from childhood always has a profound effect on them.
