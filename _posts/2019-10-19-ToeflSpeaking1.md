@@ -49,6 +49,21 @@ That's why I think animals should not be given so much human-rights.
 
 7. **Do you think sports courses should be a required part of every school day.** <br>
 Personally I think, sports courses must be a component of every school day, most of us have underestimated the tremendous value of sports courses.
-Firstly, sports courses can help students build up their body. Only with a health body, can they learn better. Besides, exercise can help people secrete more hormone, which may keep students being  concentrated and enthusiastic in school.
+Firstly, sports courses can help maintain the physical fitness of students. Only with a health body, can they learn better without being disturbed by illness. Besides, exercise can help people secrete more hormone, which may keep students being  concentrated and enthusiastic in school.
 Secondly, sports courses can help strengthen the sportsmanship among students. They will learn how to cooperate with each other in team contest, and learn to try their best when overcoming difficulties.
 Therefore, sports courses should be a required part of students' everyday life. 
+
+8. **Some students like classes where teachers lecture in class. Other students prefer classes where the students do some of the talking. Which type of class do you prefer?** <br>
+Personally, I llike the first way. There are two main reasons for my choice. <br>
+Firstly, students are less experienced to do teaching job. As we all know, it may take many years of training to become a teacher. It's always hard for a student to give a lesson without enough background knowledge and ability to handle exceptions.
+Secondly, it's the teacher's duty instead of student's job to give lectures. Though by preparing a talk might give a trainning to student. However, if it will take too much time, and thus will take up the time of other courses. 
+That why I don't like the second kinds of class.
+
+9. **Do you agree or disagree that college students should do an internship before graduation?** <br>
+I think it's a good idea for college students to do an intership before graduation. <br>
+Firstly, while doing an intership, students can learn a lot which won't be taught at school. They will use what they learn form school to handle the true problem, and they may learn how to coorperate with others of the company. These abilities is equally important compared with professional knowledge.
+Secondly, doing an internship can give students a way to meet new friends, and build social relationship, which is vitally important after they graduate from school.
+That why I can not encourage undergraduates to do intership any more.
+
+10. **Do you agree or disagree that students will learn more when they have discussions?** <br>
+Agree.
