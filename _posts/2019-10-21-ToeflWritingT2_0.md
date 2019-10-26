@@ -1,7 +1,7 @@
 ---
 title: 'Toefl Independent Writing'
 date: 2019-10-20
-permalink: /posts/2019/10/20/toeflwriting2/thought
+permalink: /posts/2019/10/20/toeflwriting2/0
 tags:
   - Toefl Writing
   - English
@@ -28,5 +28,43 @@ Writing analyse and thought
 
 Solution
 ======
+
+## phrase
+	• Even though parents almost instinctively devote themselves to cultivating their offspring, the outcome might turn out to be disappointment, for all children tend to unconsciously or subconsciously copy every thing from their parents. 
+	• All too often we observe some parents tend to pursue their cherished but failed dream by forcing their children to develop in a prearranged direction
+	• In a word, it is rather superficial to simply say that parents are the best teachers. 
+	• From a xxx(sociologic) perspective, xxx .
+	• Compensating for the lack of xxx, xx developed an alternative strategies which xxx. 
+	• Sth in the late 1800s was nowhere near as xxx as it is today.
+	• Granting that communication among family and friends in industrialized countries has decreased in recent years, It might be tempting to blame this problem on television since its rise roughly coincided with the decrease in time we spend with our families.
+	• Nowadays finding food has taken a back seat to  other priorities, such a s career and education.
+	• But the fact is, were it not existent, surely these people would have found other escapes, such as alcohol or gambling, for example.
+	• The more xxx, the less xxx.
+	• Maybe xxx is value or feasible in accordance with specific circumstances, however, in most cases, xxx is more appliable and practicable.
+	• With the help of xxx / As the development of xxx, not merely there are more jobs, the quality of life are higher as well.
+	• It's generally accepted that xxx, but it's hardly appropriate to say xxx.
+	• However, I have to say, A is only part of something, and it's merely one of serval determinative that xxx. 
+	• In order to maximize benefits and minimize hazards/ detriment.
+	• Second, it caused the rapid development of tourism of the city, stimulate the economy and further improve the infrastructure facilities of the city, resulting in the better being of the people in the entire community.
+	• Everything in the universe is in constant change. And everything needs continual improvement if ever changing and increasing demands of humankind are to be met.
+	• [parents] Instinctively devote themselves to cultivating their offspring.
+	• All too often we observe xxx, 
+	• One cannot achieve greatness solely by himself, regardless of his ability and status in the group.
+	• Psychology teaches us that we do get what we want, if we know exactly what we want and want the right thing.
+	• the medical insurance system
+	• Technology has simplified our lives in different aspects, great and small.
+	• There goes a saying that there is no science without fancy and no art without facts.
+	• In my view, the genuine purpose of study on history is rooted not in reconstructing the past completely and accurately by the mere sifting of evidence for facts but rather delivering the eternal values and humanity which can illustrate the present as a light and bend the arc of future towards the hope of a better day.
+	• The significance of science and technology is not just a tool for humans to fight against natural disasters or the pursuit of more comfortable life, but also an assistant to find the subtle relationship between human and nature and to get rid of our shortcomings, in the process of correction of weakness and deficiency, lead mankind to reach a more advanced and civilized future.
+	• Granted that it’s important to lay a firm foundation for the achievement of personal fulfillment through education, education amounts to far more than providing knowledge; it also embraces delivering beliefs, values and humanity. In my view, the genuine purpose of education is rooted not in stuffing “education” but rather eliciting the potential of students aimed at helping them to realize the richness within themselves.
+	• The purpose of art is not only for humans to appreciate, but also to reflect a diverse range of the local social life and to meet the spiritual needs of people for ideology, which also initiates human to express emotions and to contemplate life(思考生活).
+	• Necessary intermediary step between the concept stage and implementation stage.
+	• Einstein has made monumental contributions to physics.
+	• The lure of fame/power/money.
+	• A plausible explanation 
+	• As a proponent of clean energy.
+	• A striking feature of this plant is that … 
+	• When building a house, we must build a sturdy foundation at first, or the building will subside.
+	• We polluted the river, but simultaneously the contaminated river and food do harm to humans. Everyone may pay the price for what he has done
 
 ## How to write

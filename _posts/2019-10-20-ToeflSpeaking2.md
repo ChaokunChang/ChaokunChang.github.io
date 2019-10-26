@@ -32,3 +32,9 @@ Content
 	• T1[campus],T2[adaption]: this way/new policy can help students to accustom themselves to campus life more quickly.
 	• T1[calm, understanding]: we are all acting to our mutual advantage by this way. Only with mutual understanding can we truly solve the problem/ resolve the conflict.
 	• T1[communication]: Only by communication can we get mutual understanding.
+	• T1[Success]: Whether you can succeed depends to a great extent on whether you can resist the lures from social life.
+	• T1: It can gives us a breadth vision of world.
+	• T3: The professor doesn't concur with the author's conclusion.
+	• T1: It's important for us not to confine ourselves to reading on our subjects. We should confine ourselves to certain realm now.
+	• T1[money]: When discussing life, people always conflate money with happiness. 
+	T3: The professor strongly deprecates what has been proposed by the author. 
