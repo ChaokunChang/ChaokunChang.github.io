@@ -1,7 +1,7 @@
 ---
 title: 'Toefl Independent Writing'
 date: 2019-10-20
-permalink: /posts/2019/10/20/toeflwriting2/0
+permalink: /posts/toefl/writing/t2/0
 tags:
   - Toefl Writing
   - English
