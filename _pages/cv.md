@@ -12,7 +12,8 @@ redirect_from:
 {% include base_path %}
 Education
 ======
-* B.S. in Computer Science and Technology, Fudan University, 2020(expected)
+* B.S. in Computer Science and Technology(elite class), Fudan University, 2020(expected)
+* Overall GPA: 3.54/4.0
 
 Work experience
 ======
@@ -55,7 +56,8 @@ Contests
 Awards
 ======
 * National Endeavor Scholarship x 2
-* “Lu Chuang” Scholarship
+* "Lu Chuang" Scholarship
+* "Fan Hai" Scholar (8000/year, sponsered by OCEANWIDE HOLDINGS)
 * The Second Price of Country in Mathematical Contest in Modeling of China
 * The IBM HACKxFDU Innovation Award
 * The excellent student and excellent league member of the evaluations in 2017
