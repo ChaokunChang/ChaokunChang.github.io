@@ -27,5 +27,4 @@ This is one of the course projects required by Data Mining Course. It is also an
 
 Link
 ======
-[Source Code](https://github.com/ChaokunChang/DistributedProject) <br>
-[Report](../files/MAPSSReport.pdf)
+Most Projects and be found in my [Github repositories](https://github.com/ChaokunChang?tab=repositories)
