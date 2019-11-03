@@ -13,19 +13,19 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science and Technology(elite class), Fudan University, 2020(expected)
-* Overall GPA: 3.54/4.0
+* Overall GPA: 3.54/4.0 
 
 Work experience
 ======
 * Summer 2019: Software Engineer
   * Microsoft China Shanghai
-  * Duties included: Monitoring System
+  * Main job: Building a Monitoring System for Azure Storage
   * Mentor: Jie Du
 
 * Summer 2018: Research Intern
   * DASLab of Fudan University
-  * Duties included: Geo-Point Retrieving
-  * Supervisor: Professor Hub
+  * Main job: Geo-Point Retrieving
+  * Supervisor: Prof. Zhenying He
   
 Skills
 ======
