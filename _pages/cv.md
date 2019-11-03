@@ -58,7 +58,7 @@ Awards
 * **National Endeavor Scholarship** x 2
 * **"Lu Chuang" Scholarship**
 * **"Fan Hai" Scholar Award** (sponsored by OCEANWIDE HOLDINGS)
-* The **Second Price of Country** in Mathematical Contest in Modeling of China
+* The **Second Prize of Country** in Mathematical Contest in Modeling of China
 * The **IBM HACKxFDU Innovation Award**
 * The excellent student and excellent league member of the evaluations in 2017
 
