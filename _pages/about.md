@@ -17,4 +17,4 @@ Chaokun is also looking for supervisor for his Ph.D. career, and [this](https://
 
 For more information about Chaokun's background, please go to the page of [CV](https://chaokunchang.github.io/cv/). 
 
-Chaokun is also a fan of magic and comic. In his spare time, he often learns some magic tricks and sometimes gives a show in activites of my school. If you are also a magic fan, welcome to contact him!
+Chaokun is also a fan of magic and comic. In his spare time, he often learns some magic tricks and sometimes gives a show in school activites. If you are also a magic fan, welcome to contact him!
