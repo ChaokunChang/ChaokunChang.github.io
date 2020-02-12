@@ -1,6 +1,7 @@
 ---
 title: 'Toefl Speaking Materials'
 date: 2019-10-20
+collection: posts
 permalink: /posts/toefl-speaking-2/
 tags:
   - Toefl Speaking

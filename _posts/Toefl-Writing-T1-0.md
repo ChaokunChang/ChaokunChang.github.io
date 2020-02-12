@@ -1,6 +1,7 @@
 ---
 title: 'Toefl Comprehensive Writing'
 date: 2019-10-23
+collection: posts
 permalink: /posts/toefl-writing-t1-0/
 tags:
   - Toefl Writing

@@ -1,6 +1,7 @@
 ---
 title: 'Toefl Independent Writing'
 date: 2019-10-20
+collection: posts
 permalink: /posts/toefl-writing-t2-0/
 tags:
   - Toefl Writing

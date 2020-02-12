@@ -1,6 +1,7 @@
 ---
 title: 'Sytem Books'
 date: 2012-08-14
+collection: posts
 permalink: /posts/book-system
 tags:
   - Book

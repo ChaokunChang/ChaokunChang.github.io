@@ -1,6 +1,7 @@
 ---
 title: 'Toefl Speaking Templates'
 date: 2019-10-19
+collection: posts
 permalink: /posts/toefl-speaking-1/
 tags:
   - Toefl Speaking
