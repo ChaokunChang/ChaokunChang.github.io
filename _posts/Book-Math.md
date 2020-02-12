@@ -1,7 +1,7 @@
 ---
 title: 'Mathematical Books'
 date: 2012-08-14
-permalink: /posts/book/math
+permalink: /posts/book-math
 tags:
   - Book
   - Math

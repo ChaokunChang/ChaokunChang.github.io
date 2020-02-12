@@ -1,7 +1,7 @@
 ---
 title: 'Sytem Books'
 date: 2012-08-14
-permalink: /posts/book/system
+permalink: /posts/book-system
 tags:
   - Book
   - System

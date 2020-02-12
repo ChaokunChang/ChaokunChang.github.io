@@ -1,7 +1,7 @@
 ---
 title: 'AI Books'
 date: 2012-08-14
-permalink: /posts/book/ai
+permalink: /posts/book-ai
 tags:
   - Book
   - AI

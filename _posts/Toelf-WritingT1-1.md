@@ -1,7 +1,7 @@
 ---
 title: 'Toefl Comprehensive Writing'
 date: 2019-10-20
-permalink: /posts/toefl/writing/t1/1/
+permalink: /posts/toefl-writing-t1-1/
 tags:
   - Toefl Writing
   - English
