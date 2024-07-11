@@ -3,7 +3,7 @@ title: "Is Network the Bottleneck of Distributed Training?"
 collection: publications
 permalink: /publication/2020-06-24-Bottleneck
 excerpt: 'This paper is about distributed training of DNN models.'
-date: 2010-10-01
+date: 2020-06-24
 venue: 'NetAI 2020'
 paperurl: 'https://arxiv.org/pdf/2006.10103'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
