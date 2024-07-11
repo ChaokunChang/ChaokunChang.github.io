@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2020-06-24-Bottleneck
 excerpt: 'This paper is about distributed training of DNN models.'
 date: 2020-06-24
-venue: 'NetAI 2020'
+venue: 'NetAI'
 paperurl: 'https://arxiv.org/pdf/2006.10103'
-# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: ''
 ---
 
 Recently there has been a surge of research on improving the communication efficiency of distributed training. However, little work has been done to systematically understand whether the network is the bottleneck and to what extent.
