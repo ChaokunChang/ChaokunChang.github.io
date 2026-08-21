@@ -1,84 +1,78 @@
 ---
-layout: archive
-title: "CV"
+layout: academic-page
 permalink: /cv/
-author_profile: true
+title: "Curriculum Vitae"
+eyebrow: "Profile"
+intro: "A concise overview of education, research, experience, service, and selected honors."
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-*[PDF version here](../files/CV_of_Chaokun.pdf)*
+{% assign profile = site.data.profile %}
 
-{% include base_path %}
-Education
-======
-* B.S. in Computer Science and Technology(elite class), Fudan University, 2020(expected)
-* Overall GPA: 3.54/4.0 
+<div class="cv-download">
+  <p>Last updated August 2026.</p>
+  <a class="button button--primary" href="{{ profile.cv | relative_url }}">Download PDF</a>
+</div>
 
-Work experience
-======
-* Summer 2019: Software Engineer
-  * Microsoft China Shanghai
-  * Main job: Building a Monitoring System for Azure Storage
-  * Mentor: Jie Du
+<section class="cv-section">
+  <h2>Education</h2>
+  <div class="cv-rows">
+    {% for item in profile.education %}
+      <article class="cv-row">
+        <div><h3>{{ item.degree }}</h3><p>{{ item.institution }}</p></div>
+        <div class="cv-row__meta">{% if item.status %}<p>{{ item.status }}</p>{% endif %}<p>GPA {{ item.gpa }}</p></div>
+      </article>
+    {% endfor %}
+  </div>
+</section>
 
-* Summer 2018: Research Intern
-  * DASLab of Fudan University
-  * Main job: Geo-Point Retrieving
-  * Supervisor: Prof. Zhenying He
-  
-Skills
-======
-* Language: C/C++/C#, Python
-* Framework 
-  * Angular
-  * Django
-* BigData
-  * Hadoop
-  * Spark
+<section class="cv-section">
+  <h2>Research areas</h2>
+  <div class="research-areas">
+    {% for topic in profile.research_interests %}<span>{{ topic }}</span>{% endfor %}
+  </div>
+</section>
 
-Publications
-======
-No publications yet.
-  
-Projects
-======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Contests
-======
-  <ul>{% for post in site.contests %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Awards
-======
-* **National Endeavor Scholarship** x 2
-* **"Lu Chuang" Scholarship**
-* **"Fan Hai" Scholar Award** (sponsored by OCEANWIDE HOLDINGS)
-* The **Second Prize of Country** in Mathematical Contest in Modeling of China
-* The **IBM HACKxFDU Innovation Award**
-* The excellent student and excellent league member of the evaluations in 2017
+<section class="cv-section">
+  <h2>Experience</h2>
+  <div class="cv-rows">
+    {% for item in profile.experience %}
+      <article class="cv-row">
+        <div><h3>{{ item.organization }}</h3><p>{{ item.role }}</p></div>
+        <p class="cv-row__meta">{{ item.period }}</p>
+      </article>
+    {% endfor %}
+  </div>
+</section>
 
-Main Courses
-======
+<section class="cv-section">
+  <h2>Projects & open source</h2>
+  <div class="cv-rows">
+    {% for item in profile.other_experience %}
+      <article class="cv-row">
+        <div><h3>{{ item.organization }}</h3><p>{{ item.detail }}</p></div>
+        {% if item.period %}<p class="cv-row__meta">{{ item.period }}</p>{% endif %}
+      </article>
+    {% endfor %}
+  </div>
+</section>
 
-| Course name  | Type         | Course name  | Type       |
-| ------------ | ------------ | ------------ | ---------- |
-| Mathematical Analysis B | Math | Programming | CS Basis |
-| Linear Algebra | Math | Object-Oriented Programming | CS Basis |
-| Set Theory and Graph Theory | Math | Data Structure | CS Basis |
-| Algebra Structure and Mathematical Logic | Math | Algorithm Design and Analysis | CS Basis |
-| Probability and Mathematical Statistics | Math | Introduction to Computer System | CS Basis | 
-| College Physics B | Physics | Operating System | CS Basis |
-| Basics of Analog Electronics | EE | Compile | CS Basis *(on going)* |
-| How to Start and Develop Scientific Research | Research | Computer Networks | System and Network |
-| Digital Logic and Component Design | CS Hardware | Introduction to Database Systems | System and Network |
-| Experiments Digital Logic and Component Design | CS Hardware | Distributed System | System and Network |
-| Software Engineering | CS Software | Pattern Recognition and Machine Learning | AI | 
-| Principles of Security | Security | Digital Image Processing | AI |
-| Big Data Analysis and Techniques | Big Data | Natural Language Processing | AI *(on going)* |
-| Data Mining | Data Mining | Artificial Intelligence | AI *(on going)* | 
-| Concept of Concurrency | System and Network *(audit)* |
+<section class="cv-section">
+  <h2>Selected honors</h2>
+  <ul class="honor-list">{% for item in profile.honors %}<li>{{ item }}</li>{% endfor %}</ul>
+</section>
+
+<section class="cv-section cv-section--split">
+  <div>
+    <h2>Reviewing</h2>
+    <ul class="plain-list">{% for item in profile.reviewing %}<li>{{ item }}</li>{% endfor %}</ul>
+  </div>
+  <div>
+    <h2>Teaching</h2>
+    <ul class="plain-list">{% for item in profile.teaching %}<li>{{ item }}</li>{% endfor %}</ul>
+    <h2>Community</h2>
+    <ul class="plain-list">{% for item in profile.other_service %}<li>{{ item }}</li>{% endfor %}</ul>
+  </div>
+</section>

@@ -1,19 +1,11 @@
-# main links links
 main:
-  - title: "Projects"
-    url: /projects/  
-
-  - title: "Contests"
-    url: /contests/   
-    
+  - title: "Research"
+    url: "/#research"
   - title: "Publications"
-    url: /publications/   
-    
+    url: "/publications/"
+  - title: "Experience"
+    url: "/#experience"
+  - title: "Service"
+    url: "/#service"
   - title: "CV"
-    url: /cv/
-
-  - title: "Posts"
-    url: /posts/
-
-  # - title: "Extra"
-  #   url: /extra/
+    url: "/cv/"

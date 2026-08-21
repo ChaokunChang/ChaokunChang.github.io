@@ -1,23 +1,24 @@
 {% include base_path %}
 
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
+<header class="site-header">
+  <div class="site-shell site-header__inner">
+    <a class="site-brand" href="{{ '/' | relative_url }}" aria-label="Chaokun Chang, home">
+      <span class="site-brand__name">Chaokun Chang</span>
+      <span class="site-brand__role">Systems for AI</span>
+    </a>
+
+    <details class="site-nav-shell">
+      <summary>Menu</summary>
+      <nav class="site-nav" aria-label="Primary navigation">
+        {% for link in site.data.navigation.main %}
+          {% if link.url contains 'http' or link.url contains 'mailto:' %}
+            {% assign nav_url = link.url %}
+          {% else %}
+            {% assign nav_url = link.url | relative_url %}
+          {% endif %}
+          <a href="{{ nav_url }}">{{ link.title }}</a>
+        {% endfor %}
       </nav>
-    </div>
+    </details>
   </div>
-</div>
+</header>

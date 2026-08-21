@@ -1,0 +1,67 @@
+- title: "From LLM Inference to Agentic Workloads: Characterization and Implications for Serving Systems"
+  authors: "Chang, C., Zhou, Y., Lu, H., Fu, K., et al., Li, B., and Wang, W."
+  venue: "arXiv:2608.15127"
+  year: 2026
+  status: "Preprint"
+  featured: true
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2608.15127"
+
+- title: "Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes"
+  authors: "Chang, C., Wu, T., Cao, L., Gao, W., and Wang, W."
+  venue: "arXiv:2604.28138"
+  year: 2026
+  status: "Preprint"
+  featured: true
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2604.28138"
+
+- title: "Low-Latency, Resource Efficient Agentic Workflow Serving with FLARE"
+  authors: "Fu, K., Chang, C., Shi, J., and Wang, W."
+  venue: "In submission"
+  year: 2026
+  status: "Manuscript"
+  featured: true
+
+- title: "Hybrid LLM: Selective PD-Disaggregation for LLM Serving"
+  authors: "Lu, H., Liu, M., Chang, C., Shi, J., and Wang, W."
+  venue: "In submission"
+  year: 2026
+  status: "Manuscript"
+  featured: false
+
+- title: "Scalable Complex Event Processing on Video Streams"
+  authors: "Han, C., Chang, C., Srijan, S., Lu, Y., and Lo, E."
+  venue: "ACM SIGMOD"
+  year: 2025
+  status: "Conference"
+  featured: true
+  links:
+    - label: "DOI"
+      url: "https://dl.acm.org/doi/10.1145/3725419"
+
+- title: "Biathlon: Harnessing Model Resilience for Accelerating ML Inference Pipelines"
+  authors: "Chang, C., Lo, E., and Ye, C."
+  venue: "PVLDB"
+  year: 2024
+  status: "Conference"
+  featured: true
+  links:
+    - label: "Paper"
+      url: "https://dl.acm.org/doi/10.14778/3675034.3675052"
+    - label: "Code"
+      url: "https://github.com/ChaokunChang/Biathlon"
+
+- title: "Is Network the Bottleneck of Distributed Training?"
+  authors: "Zhang, Z., Chang, C., Lin, H., Wang, Y., Arora, R., and Jin, X."
+  venue: "ACM NetAI"
+  year: 2020
+  status: "Workshop"
+  featured: false
+  links:
+    - label: "Paper"
+      url: "https://dl.acm.org/doi/10.1145/3405671.3405810"
+    - label: "Code"
+      url: "https://github.com/netx-repo/training-bottleneck"

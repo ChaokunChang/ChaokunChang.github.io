@@ -1,0 +1,86 @@
+name: "Chaokun Chang"
+role: "Ph.D. Researcher in Computer Systems"
+affiliation: "Department of Computer Science and Engineering, HKUST"
+location: "Hong Kong"
+email: "chaokunchang1@gmail.com"
+github: "https://github.com/ChaokunChang"
+linkedin: "https://www.linkedin.com/in/%E6%9C%9D%E5%9D%A4-%E5%B8%B8-584451177/"
+cv: "/files/CV_20260821.pdf"
+portrait: "/images/chaokun_0.png"
+
+research_statement: >-
+  I build systems for efficient, reliable agentic workloads and large language
+  model serving. My current work spans serving systems, sandboxing and
+  checkpoint/restore, inference pipelines, and the systems foundations needed
+  to run AI applications at scale.
+
+research_interests:
+  - "Agent Serving"
+  - "Agent Sandboxes"
+  - "LLM Serving"
+  - "MLSys"
+  - "ML Inference Pipelines"
+  - "ML Compilers"
+  - "Distributed DNN Training"
+  - "Video Analytics Systems"
+
+education:
+  - degree: "Ph.D. in Computer Science and Engineering"
+    institution: "Hong Kong University of Science and Technology"
+    short_institution: "HKUST"
+    status: "Current"
+    gpa: "3.90 / 4.0"
+  - degree: "M.Phil. in Computer Science and Engineering"
+    institution: "The Chinese University of Hong Kong"
+    short_institution: "CUHK"
+    gpa: "3.753 / 4.0"
+  - degree: "B.S. in Computer Science and Technology, Elite Class"
+    institution: "Fudan University"
+    short_institution: "Fudan University"
+    gpa: "3.54 / 4.0"
+
+experience:
+  - organization: "Alibaba"
+    role: "Intern"
+    period: "Aug 2025 - Present"
+  - organization: "AWS AI Lab"
+    role: "Intern"
+    period: "Nov 2019 - Oct 2020"
+  - organization: "Microsoft Azure Storage R&D"
+    role: "Software Engineering Intern"
+    period: "Jul 2019 - Nov 2019"
+  - organization: "DSALab, Fudan University"
+    role: "Research Intern"
+    period: "Jul 2018 - Jul 2019"
+
+other_experience:
+  - organization: "HACKxFDU Contest"
+    period: "2016"
+    detail: "IBM Innovation Award; developed an assistive application that helps blind users recognize their surroundings."
+  - organization: "FastNLP"
+    detail: "Open-source contributor; integrated BERT into the FastNLP toolkit."
+
+reviewing:
+  - "External reviewer: VLDB 2021-2022; SIGMOD 2021-2022; AAAI 2021-2022; ICDE 2021-2022; EDBT 2022"
+  - "Artifact Evaluation reviewer: OSDI 2023; MLSys 2023"
+
+teaching:
+  - "CSCI3170 Introduction to Database (CUHK)"
+  - "CSCI4160 Distributed and Parallel Computing (CUHK)"
+  - "ENGG1110E Problem Solving in C Programming (CUHK)"
+  - "COMP4651 Cloud Computing and Big Data Systems (HKUST)"
+
+honors:
+  - "Honor Graduate of the Fudan Elite Class (6 / 29)"
+  - "Outstanding Graduate of Fudan University (10 / 151)"
+  - "LuChuang Scholarship (10 recipients, Tengfei College of Fudan University)"
+  - "Fan Hai Scholar (10 recipients, Fudan University)"
+  - "National Endeavor Scholarship, twice"
+  - "National Second Prize, China Undergraduate Mathematical Contest in Modeling (top 1%)"
+  - "Third Prize for Undergraduates, Fudan University"
+  - "Best Project, Waseda University Winter Program (team award)"
+  - "Third Prize, China College Students' Internet Plus Innovation and Entrepreneurship Competition"
+  - "Excellent Student and Excellent League Member"
+
+other_service:
+  - "Volunteer physics teacher at a primary school in Shanxi Province"
